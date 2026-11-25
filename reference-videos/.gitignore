@@ -1,0 +1,11 @@
+# Reference clips are other people's videos: private study only, never committed or shared.
+# Everything in this folder is ignored except this file, the README and the two empty type folders.
+*
+!.gitignore
+!README.md
+!fact/
+!fable/
+fact/*
+fable/*
+!fact/.gitkeep
+!fable/.gitkeep

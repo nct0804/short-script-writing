@@ -1,12 +1,14 @@
-# Worked examples (original)
+# Fable worked examples (original)
 
-Both scripts were written for this skill with the templates. They show the bar, the output format and the notes. Don't reuse them as-is for a new video; they're yours to use if you want them, but write new ones from the user's seed.
+Three scripts written for this kit with the templates: a warm Fable story, and two Fable gags (the second one was
+animated end to end: `samples/fable-my-crushs-laugh-grows-flowers/`). They show the bar, the output format and the
+notes. Don't reuse them as they are for a new video; write new ones from the user's seed.
 
 ---
 
 # MY LITTLE BROTHER WON'T LET GO OF HIS BALLOON...
 
-**Format:** Long world-rule story · **Target length:** about 1:45 · **Words:** 452 (≈4.3 words/s): 48 / 101 / 33 / 59 / 69 / 48 / 64 / 30 per beat
+**Type:** Fable · **Format:** Fable story (warm) · **Target length:** about 1:45 · **Words:** 452 (≈4.3 words/s): 48 / 101 / 33 / 59 / 69 / 48 / 64 / 30 per beat
 **Logline:** In a town where letting go of a balloon erases a memory, the clumsiest kid in town saves his little brother from floating away by letting go for him.
 **Title options:** 1. MY LITTLE BROTHER WON'T LET GO OF HIS BALLOON... (recommended) · 2. EVERY BALLOON TAKES A MEMORY · 3. THE CLOUD THAT KEEPS EVERYTHING
 
@@ -15,7 +17,7 @@ Both scripts were written for this skill with the templates. They show the bar, 
 ### 1. The rule · 0:00–0:11
 In my town, when you let go of a balloon, it carries one memory away with it. You see, the higher it floats, the older the memory. Hold on too long, and it carries you instead. My little brother has been holding the same balloon for 312 days.
 
-### 2. You see · 0:11–0:35
+### 2. Proof montage · 0:11–0:35
 Mayor Dunn let go of three balloons at the summer fair. He still doesn't know he's married. His wife is being very patient about it. Mrs. Petrov ties hers to her dog. The dog forgot how to sit. Our dentist gives out a balloon after every filling, so nobody remembers the pain. Or the bill. In 1979 the Kowalski twins let go of a whole bunch at once. They're fifty now. They still shake hands every morning. And above Harlow Hill there's a cloud that never moves. Every balloon ends up there. Nobody's been up. Nobody wants to forget the way.
 
 ### 3. Me? · 0:35–0:42
@@ -45,7 +47,7 @@ Every night, Pip lifts an empty hand to the window. "Still here?" "Still here." 
 | 3.5–4.5 s | Close-up: narrator, wide-eyed, looking up | Reaction | |
 | 4.5–7.0 s | Pip, 5, asleep, red balloon tied to his wrist, a calendar marked "312" | The stake | "312 DAYS" |
 
-## Shot notes (rest of the reel)
+## Shot notes (rest of the video)
 - Beat 2: one shot per case. Mayor shaking hands with his own wife; dog staring at a "SIT" card; dentist with a balloon bouquet; twins shaking hands, sign "KOWALSKI BROS EST. 1979"; slow push-in on the cloud over Harlow Hill (plant).
 - Beat 3: eggs hitting the floor, SPLAT x3; a jar labelled "41" with only strings in it.
 - Beat 4: dinner with the balloon in a chair; the window ritual in warm light.
@@ -72,7 +74,7 @@ Weakest spot: the turn could be planted harder; show one glowing balloon in the 
 
 # WHEN PIGS FLY 🐷
 
-**Format:** 36-second gag · **Words:** 184 (≈5.2 words/s)
+**Type:** Fable · **Format:** Fable gag · **Words:** 184 (≈5.2 words/s)
 **Logline:** A boy takes his crush's "when pigs fly" literally.
 
 ## Script
@@ -101,4 +103,52 @@ Top-of-frame 2 to 4 word chunks; keywords in green CAPS: PIG, FLY, COLLEGE FUND,
 Must-haves: 8/8 ✓
 Hook 28/30 · Escalation 27/30 · Flip 27/30 · Language 9/10
 Total: 91/100
+```
+
+---
+
+# MY CRUSH'S LAUGH GROWS FLOWERS 🌷
+
+**Type:** Fable · **Format:** Fable gag · **Words:** 182 (≈5.2 words/s)
+**Logline:** A boy whose crush's laugh makes flowers grow spends thirty days failing to make her laugh, until a disaster
+finally does, and now she wants it every day.
+
+## Script
+
+### Premise · 0:00–0:04 · 21 words
+Every time my crush laughs, flowers grow wherever she looks. I've known her four years. I've never grown a single flower.
+
+### Escalation · 0:04–0:33 · 146 words
+Day one, I told her my best joke. Why did the scarecrow win an award? She blinked. One weed came up. It was brown.
+Day nine, I wore my dad's clown nose and a squeaky shoe to class. She sighed. The cactus on her desk died. The janitor
+buried it. Day fifteen, I paid Marcus, the funniest kid in fourth grade, three dollars a joke. Forty jokes. She laughed
+once. At Marcus. Marcus got a rose bush. Day twenty, I learned to juggle. Three eggs. Then two eggs. Then I was wearing
+them. Day thirty, the big one. Lunch, twelve fifteen. Banana peel, slime bucket, whoopee cushion, all timed to the
+second. I slipped on the banana first. Into the slime. Onto the cushion. Pfffft. She laughed so hard the cafeteria
+turned into a jungle. Two lunch ladies are still in there. We hear them sometimes.
+
+### Flip · 0:33–0:36 · 15 words
+She wiped her eyes and said, "Same time tomorrow?" Now flowers grow wherever I fall.
+
+## Notes
+- **Day cards carry the time jumps** (Day one … Day thirty): the escalation needs no "then, later" sentences.
+- **Plants → payoffs:** the brown weed (day 1) → the jungle (day 30); his empty pot "MINE: 0" (hook) → flowers where he
+  fell (last line).
+- **Sound words are cut points:** "Pfffft." gets its own shot and its own sound.
+- **The flip is two lines:** her question turns the premise around, then the last line echoes the first, changed.
+- Animated, this read ran 45 s, not 36: the only child voice available read slowly. Pick a fast voice for gags
+  (`course/05-from-script-to-video.md`).
+
+## Captions
+Top-of-frame 2-4 word chunks; keywords in green CAPS: FLOWERS, WEED, MARCUS, JUNGLE, PFFFT.
+
+## Comment bait
+What grows when she laughs in her sleep?
+
+## Score card
+```
+Must-haves: 8/8 ✓
+Hook 27/30 · Escalation 27/30 · Flip 26/30 · Language 9/10
+Total: 89/100
+Weakest spot: the flip could be sharper if her line also turned his "never grown a flower" (e.g. she hands him one).
 ```
