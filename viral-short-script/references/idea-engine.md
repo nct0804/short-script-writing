@@ -47,7 +47,7 @@ These are starting points written for this skill. Use them as pitches or as fuel
 
 | # | Title | First line | Heart / turn |
 |---|---|---|---|
-| 1 | MY SHADOW LEFT WITHOUT ME... | "In this town, every time you tell a lie, your shadow walks away from you." | Worst liar in town; Grandma's shadow is "a little too tall" since Grandpa died. The truth brings both shadows home. (Full script in `examples.md`.) |
+| 1 | MY SHADOW LEFT WITHOUT ME... | "In this town, every time you tell a lie, your shadow walks away from you." | Worst liar in town; Grandma's shadow is "a little too tall" since Grandpa died. The truth brings both shadows home. |
 | 2 | MY LITTLE BROTHER'S BALLOON NEVER CAME DOWN... | "In my town, when you let go of a balloon, it carries one memory away with it." | Kid who's terrible at holding things; little brother keeps a balloon for Mom. Turn: the sky isn't stealing memories, it's keeping them safe. |
 | 3 | WE ONLY WHISPER ON TUESDAYS | "In this town, anything said out loud on a Tuesday comes true by Wednesday." | The loudest kid; Grandpa hasn't spoken on a Tuesday in 40 years. |
 | 4 | THE LAST KID WITH A REFLECTION... | "On your tenth birthday, your reflection leaves the mirror and gets a job. Mine stayed." | Shy kid; reflection stayed to protect a little sister from something in the glass. Eerie. |
