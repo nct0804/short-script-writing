@@ -1,4 +1,4 @@
-# Fable checklist
+# Fiction checklist
 
 Score every draft before showing it. Fix anything failing and re-score. Show the card under the script.
 
@@ -12,7 +12,7 @@ Score every draft before showing it. Fix anything failing and re-score. Show the
 - [ ] Word count fits the pace: story 450-600 words (4.3 words/s); gag 180-195 (5.2 words/s).
 - [ ] Original: no plot, rule, character or line taken from another creator.
 
-## Score: Fable story (100 points; ship at 85+)
+## Score: Fiction story (100 points; ship at 85+)
 | Area | Points | Full marks when |
 |---|---|---|
 | Hook | 20 | Rule in sentence 1, stake by sentence 3, strangest image first, under 5 s |
@@ -24,7 +24,7 @@ Score every draft before showing it. Fix anything failing and re-score. Show the
 | Language | 10 | ~6-word sentences, a one-word sentence every 8-10 lines, at least 3 deadpan jokes, sound words, dialogue under 10 words |
 | Comment fuel | 5 | One clear loophole, or a mystery viewers can solve early |
 
-## Score: Fable gag (100 points; ship at 85+)
+## Score: Fiction gag (100 points; ship at 85+)
 | Area | Points | Full marks when |
 |---|---|---|
 | Hook | 30 | The premise in sentence 1, visible in frame 1, the stake by sentence 3 |

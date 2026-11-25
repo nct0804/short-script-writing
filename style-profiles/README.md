@@ -7,9 +7,9 @@ names, so a profile is safe to keep, share and reuse.
 
 ```
 style-profiles/fact-<set-name>.md
-style-profiles/fable-<set-name>.md
+style-profiles/fiction-<set-name>.md
 ```
 
-When you start a script, `fact-script` and `fable-script` list the profiles for that type and ask whether to follow one
+When you start a script, `fact-script` and `fictional-script` list the profiles for that type and ask whether to follow one
 or the kit defaults. A chosen profile's numbers win where they differ. The empty template is
 `.claude/skills/study-references/references/profile-template.md`.

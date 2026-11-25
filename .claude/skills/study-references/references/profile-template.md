@@ -3,7 +3,7 @@
 <!-- Made by the study-references skill. Patterns only: no quotes longer than three words, no titles, no character
      names, no plots, no creator names. Every example below is newly written. -->
 
-**Type:** Fact / Fable · **Set:** [set-name] · **Videos:** [n] · **Measured:** [date]
+**Type:** Fact / Fiction · **Set:** [set-name] · **Videos:** [n] · **Measured:** [date]
 **Formats in the set:** [e.g. 14 Fact stories, 3 Fact explainers] · **Views:** [range, if known]
 
 ## Different from the kit defaults
@@ -12,16 +12,16 @@
 ## Numbers (median, range)
 | Measure | This set | Kit default |
 |---|---|---|
-| Length | … s (… – …) | Fact story 55-65 s / Fable story 95-175 s / gag 36-38 s |
-| Words per second | … | Fact 3.7 / Fable story 4.3 / gag 5.2 |
+| Length | … s (… – …) | Fact story 55-65 s / Fiction story 95-175 s / gag 36-38 s |
+| Words per second | … | Fact 3.7 / Fiction story 4.3 / gag 5.2 |
 | Words | … | |
-| Median sentence (words) | … | Fact ~14 / Fable ~6 |
+| Median sentence (words) | … | Fact ~14 / Fiction ~6 |
 | One-word sentences per video | … | |
 | Sentences starting with So / But / And / Then | … % | Fact ~27 % |
 | "You see" | in … of … videos, at … of the read | |
-| Person (I / you / he per 100 words) | … / … / … | Fact: he · Fable: I |
+| Person (I / you / he per 100 words) | … / … / … | Fact: he · Fiction: I |
 | Questions per video | … | |
-| Cuts per 10 s · cuts in the first 6 s | … · … | Fable fast 5-15 · slow 1-2.4 |
+| Cuts per 10 s · cuts in the first 6 s | … · … | Fiction fast 5-15 · slow 1-2.4 |
 | Median shot length | … s | |
 | Loudness | … LUFS, LRA … LU | −14 LUFS |
 

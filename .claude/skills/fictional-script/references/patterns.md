@@ -1,6 +1,6 @@
-# Fable patterns: what the viral invented-rule stories have in common
+# Fiction patterns: what the viral invented-rule stories have in common
 
-**Fable** = an invented world with one impossible rule, told by a kid in the first person. It is the opposite of a
+**Fiction** = an invented world with one impossible rule, told by a kid in the first person. It is the opposite of a
 **Fact** script (a real mechanism, told about someone else). Everything here was measured, not guessed:
 
 - **Study set:** the 25 most-viewed of the newest 96 reels on a large animated mini-story account (1.8M to 8.9M views),
@@ -8,7 +8,7 @@
 - The source account is deliberately not named, and no line, title or plot from it is reproduced. Every example in this
   kit is original.
 
-If the user has a **style profile** of their own (`style-profiles/fable-*.md`, made by the `study-references` skill),
+If the user has a **style profile** of their own (`style-profiles/fiction-*.md`, made by the `study-references` skill),
 its numbers override the ones below where they differ.
 
 ## The headline
@@ -24,7 +24,7 @@ saves someone small and loved by using the rule in a way nobody thought of.** Al
 
 ## Two formats
 
-| | Fable story | Fable gag |
+| | Fiction story | Fiction gag |
 |---|---|---|
 | Share of the study set | 19 of 25 | 6 of 25 |
 | Length | 95-175 s (median 130), 414-737 words (median 525) | 36-38 s, 184-195 words |
@@ -33,7 +33,7 @@ saves someone small and loved by using the rule in a way nobody thought of.** Al
 | Core | a misfit kid saves a sibling, a grandparent or the town | three escalations of the premise going wrong |
 | Ending | callback to the opening or a ritual: warm, or a dread sting | one line of dialogue that flips the premise |
 
-## Two variants of the Fable story
+## Two variants of the Fiction story
 
 | | Warm (classic 8 beats) | Eerie (crisis-first) |
 |---|---|---|
@@ -42,7 +42,7 @@ saves someone small and loved by using the rule in a way nobody thought of.** Al
 | Tense | usually past | present |
 | Share | most of the set | 4 of the top 15, including the #1 |
 
-## The 8 beats (warm Fable story, about 2:00)
+## The 8 beats (warm Fiction story, about 2:00)
 
 | # | Beat | When | Job |
 |---|---|---|---|
@@ -55,7 +55,7 @@ saves someone small and loved by using the rule in a way nobody thought of.** Al
 | 7 | **Sacrifice through the rule** | 75-90 % | The narrator uses the misfit trait *through* the rule, and it costs them: years, a voice, a memory, a place. |
 | 8 | **Callback** | last 5-10 s | The first line or the ritual returns, changed. Warm stories end on a joke inside the warmth; eerie ones on the threat turning toward the narrator. |
 
-The **Fable gag** keeps only beats 1, 5 and 8: premise, three quick escalations, a one-line dialogue flip.
+The **Fiction gag** keeps only beats 1, 5 and 8: premise, three quick escalations, a one-line dialogue flip.
 
 ### Patterns that hold across the set
 - **Comedy first, heart second.** The first 20-30 seconds being funny is what buys the emotional turn.

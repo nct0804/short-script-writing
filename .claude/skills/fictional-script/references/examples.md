@@ -1,14 +1,14 @@
-# Fable worked examples (original)
+# Fiction worked examples (original)
 
-Three scripts written for this kit with the templates: a warm Fable story, and two Fable gags (the second one was
-animated end to end: `samples/fable-my-crushs-laugh-grows-flowers/`). They show the bar, the output format and the
+Three scripts written for this kit with the templates: a warm Fiction story, and two Fiction gags (the second one was
+animated end to end: `samples/fiction-my-crushs-laugh-grows-flowers/`). They show the bar, the output format and the
 notes. Don't reuse them as they are for a new video; write new ones from the user's seed.
 
 ---
 
 # MY LITTLE BROTHER WON'T LET GO OF HIS BALLOON...
 
-**Type:** Fable · **Format:** Fable story (warm) · **Target length:** about 1:45 · **Words:** 452 (≈4.3 words/s): 48 / 101 / 33 / 59 / 69 / 48 / 64 / 30 per beat
+**Type:** Fiction · **Format:** Fiction story (warm) · **Target length:** about 1:45 · **Words:** 452 (≈4.3 words/s): 48 / 101 / 33 / 59 / 69 / 48 / 64 / 30 per beat
 **Logline:** In a town where letting go of a balloon erases a memory, the clumsiest kid in town saves his little brother from floating away by letting go for him.
 **Title options:** 1. MY LITTLE BROTHER WON'T LET GO OF HIS BALLOON... (recommended) · 2. EVERY BALLOON TAKES A MEMORY · 3. THE CLOUD THAT KEEPS EVERYTHING
 
@@ -74,7 +74,7 @@ Weakest spot: the turn could be planted harder; show one glowing balloon in the 
 
 # WHEN PIGS FLY 🐷
 
-**Type:** Fable · **Format:** Fable gag · **Words:** 184 (≈5.2 words/s)
+**Type:** Fiction · **Format:** Fiction gag · **Words:** 184 (≈5.2 words/s)
 **Logline:** A boy takes his crush's "when pigs fly" literally.
 
 ## Script
@@ -109,7 +109,7 @@ Total: 91/100
 
 # MY CRUSH'S LAUGH GROWS FLOWERS 🌷
 
-**Type:** Fable · **Format:** Fable gag · **Words:** 182 (≈5.2 words/s)
+**Type:** Fiction · **Format:** Fiction gag · **Words:** 182 (≈5.2 words/s)
 **Logline:** A boy whose crush's laugh makes flowers grow spends thirty days failing to make her laugh, until a disaster
 finally does, and now she wants it every day.
 

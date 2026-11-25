@@ -1,9 +1,9 @@
-# Fable templates and output format
+# Fiction templates and output format
 
-Three templates: the **warm Fable story** (classic 8 beats), the **eerie Fable story** (crisis-first) and the **Fable
+Three templates: the **warm Fiction story** (classic 8 beats), the **eerie Fiction story** (crisis-first) and the **Fiction
 gag**. Timestamps come from words ÷ pace (4.3 words/s for stories, 5.2 for gags).
 
-## Warm Fable story (about 2:00, 480-560 words at 4.3 words/s)
+## Warm Fiction story (about 2:00, 480-560 words at 4.3 words/s)
 
 ```
 TITLE (caps, first person, ends in "…"): MY ______ ______…
@@ -50,7 +50,7 @@ It cost me ______.
 [The ritual or first line returns, changed.] [One short joke or sting.]
 ```
 
-## Eerie Fable story (crisis-first, 1:45-2:30, present tense)
+## Eerie Fiction story (crisis-first, 1:45-2:30, present tense)
 
 ```
 TITLE: the rule or the place, in caps: THE LIGHTHOUSE THAT COUNTS US / or a teaser ending in "…"
@@ -79,7 +79,7 @@ Tonight, ______. / This morning, ______.   (the narrator is on the wrong side of
 [The threat turns toward the narrator, in one calm line.]
 ```
 
-## Fable gag (36 s, 180-195 words at 5.2 words/s)
+## Fiction gag (36 s, 180-195 words at 5.2 words/s)
 
 ```
 TITLE (caps + one emoji): ______ ______ 😳
@@ -104,7 +104,7 @@ Use these headings, in this order.
 ```markdown
 # [RECOMMENDED TITLE]
 
-**Type:** Fable · **Format:** Fable story (warm) / Fable story (eerie) / Fable gag · **Target length:** 2:05 · **Words:** 538 (≈4.3 words/s)
+**Type:** Fiction · **Format:** Fiction story (warm) / Fiction story (eerie) / Fiction gag · **Target length:** 2:05 · **Words:** 538 (≈4.3 words/s)
 **Logline:** [one sentence: rule + misfit + loved one + turn]
 **Title options:** 1. … (recommended) · 2. … · 3. …
 

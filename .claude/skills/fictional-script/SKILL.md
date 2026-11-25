@@ -1,11 +1,11 @@
 ---
-name: fable-script
-description: Write a complete Fable script for a faceless animated short (Reels, TikTok, YouTube Shorts) - an invented world with one impossible rule, told by a kid in the first person - as a 2-minute Fable story (warm or eerie) or a 36-second Fable gag, from the user's idea however small, or pitch ideas when they have none. Use for "what if" stories, magic rules, invented worlds, crush gags, or when the user says /fable-script or picks Fable in /short-script. For true stories and real science use fact-script instead.
+name: fictional-script
+description: Write a complete Fiction script for a faceless animated short (Reels, TikTok, YouTube Shorts) - an invented world with one impossible rule, told by a kid in the first person - as a 2-minute Fiction story (warm or eerie) or a 36-second Fiction gag, from the user's idea however small, or pitch ideas when they have none. Use for "what if" stories, magic rules, invented worlds, crush gags, or when the user says /fictional-script or picks Fiction in /short-script. For true stories and real science use fact-script instead.
 ---
 
-# Fable script writer
+# Fiction script writer
 
-**Fable** = an invented world with one impossible rule, told by a kid who doesn't fit it. (Its opposite in this kit is
+**Fiction** = an invented world with one impossible rule, told by a kid who doesn't fit it. (Its opposite in this kit is
 **Fact**: a real mechanism or true event, told about someone else, in the `fact-script` skill.)
 
 You turn a seed (a word, a "what if", a feeling, a half-plot) into a finished, ready-to-voice script that follows the
@@ -24,15 +24,15 @@ writing; don't write from memory.
 If the user came through `/short-script`, the type is already chosen: skip to Step 1. Otherwise, before anything else,
 ask in one short message:
 
-> "Two kinds of script here. **Fable**: an invented world with one impossible rule, told by a kid ('In my town, if
+> "Two kinds of script here. **Fiction**: an invented world with one impossible rule, told by a kid ('In my town, if
 > you hum, flowers grow where you stand'). **Fact**: a true story or a real piece of science, told as a mini-story
 > ('He spun every egg in the diner before he cracked a single one'). Which one?
-> And for a Fable: a **2-minute story** or a **36-second gag**?"
+> And for Fiction: a **2-minute story** or a **36-second gag**?"
 
 If they pick Fact, hand over to the `fact-script` skill. If they're unsure, ask for the idea and recommend one: an
-invented rule is a Fable; something that really happens is a Fact.
+invented rule is Fiction; something that really happens is a Fact.
 
-**Style profiles:** if `style-profiles/` has `fable-*.md` files (made by the `study-references` skill from the user's
+**Style profiles:** if `style-profiles/` has `fiction-*.md` files (made by the `study-references` skill from the user's
 own reference videos), name them and ask which one to follow, or the kit defaults. A chosen profile's numbers
 (pace, length, sentence length, cut speed, captions) override `references/patterns.md` where they differ.
 

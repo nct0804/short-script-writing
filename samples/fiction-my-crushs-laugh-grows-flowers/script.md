@@ -1,6 +1,6 @@
 # MY CRUSH'S LAUGH GROWS FLOWERS 🌷
 
-**Type:** Fable · **Format:** Fable gag · **Target length:** 0:36 · **Words:** 182 (≈5.2 words/s)
+**Type:** Fiction · **Format:** Fiction gag · **Target length:** 0:36 · **Words:** 182 (≈5.2 words/s)
 **Logline:** A boy whose crush's laugh makes flowers grow spends thirty days failing to make her laugh, until a disaster
 finally does, and now she wants it every day.
 **Title options:** 1. MY CRUSH'S LAUGH GROWS FLOWERS 🌷 (recommended) · 2. SHE'S NEVER LAUGHED AT MY JOKES 🌱 · 3. THE FLOWER LAUGH 🌸

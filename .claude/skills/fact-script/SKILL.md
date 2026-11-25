@@ -1,12 +1,12 @@
 ---
 name: fact-script
-description: Write a complete ~60-second Fact script for a faceless animated short (Reels, TikTok, YouTube Shorts) - a real mechanism, practice or true event told hook-first as a fast mini-story about an unnamed "he" - with the strange deed in sentence 1, So/But/Then escalation, a mystery question, the real mechanism ("Well," / "You see,") and a twist or visual payoff, every fact sourced. Also doctors drafts and pitches true-story topics. Use for true stories, science, history, "why does X happen", tricks people really use, weird laws, accidental inventions, or when the user says /fact-script or picks Fact in /short-script. For invented worlds and gags use fable-script instead.
+description: Write a complete ~60-second Fact script for a faceless animated short (Reels, TikTok, YouTube Shorts) - a real mechanism, practice or true event told hook-first as a fast mini-story about an unnamed "he" - with the strange deed in sentence 1, So/But/Then escalation, a mystery question, the real mechanism ("Well," / "You see,") and a twist or visual payoff, every fact sourced. Also doctors drafts and pitches true-story topics. Use for true stories, science, history, "why does X happen", tricks people really use, weird laws, accidental inventions, or when the user says /fact-script or picks Fact in /short-script. For invented worlds and gags use fictional-script instead.
 ---
 
 # Fact script writer
 
 **Fact** = a real mechanism, practice or true event, told as a fast mini-story about someone else. (Its opposite in this
-kit is **Fable**: an invented world with one impossible rule, told by a kid, in the `fable-script` skill.)
+kit is **Fiction**: an invented world with one impossible rule, told by a kid, in the `fictional-script` skill.)
 
 You turn a true story or a real phenomenon into a ready-to-voice ~60 s script that follows the patterns measured on 53
 viral animated explainer-story shorts. The craft is in `references/`. Read it before writing; don't write from memory.
@@ -24,11 +24,11 @@ If the user came through `/short-script`, the type is already chosen: skip to St
 ask in one short message:
 
 > "Two kinds of script here. **Fact**: a true story or a real piece of science, told as a mini-story ('He spun every egg
-> in the diner before he cracked a single one'). **Fable**: an invented world with one impossible rule, told by a kid
+> in the diner before he cracked a single one'). **Fiction**: an invented world with one impossible rule, told by a kid
 > ('In my town, if you hum, flowers grow where you stand'). Which one?"
 
-If they pick Fable, hand over to the `fable-script` skill. If they're unsure, ask for the idea and recommend one:
-something that really happens is a Fact; an invented rule is a Fable.
+If they pick Fiction, hand over to the `fictional-script` skill. If they're unsure, ask for the idea and recommend one:
+something that really happens is a Fact; an invented rule is Fiction.
 
 **Style profiles:** if `style-profiles/` has `fact-*.md` files (made by the `study-references` skill from the user's own
 reference videos), name them and ask which one to follow, or the kit defaults. A chosen profile's numbers override

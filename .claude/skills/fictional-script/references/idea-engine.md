@@ -1,4 +1,4 @@
-# Fable idea engine
+# Fiction idea engine
 
 ## Turning a seed into a rule
 
@@ -12,7 +12,7 @@ Whatever the user gives you, push it through these questions until one impossibl
 | A "what if" | Make it a law for everyone, then find who it hurts. | "what if you could pause time" → "The whole town freezes for one minute at noon, except whoever is crying." |
 | A character ("a grumpy neighbour") | What rule would make them the villain, or secretly the hero? | → "Any kite that lands in Mr. Halloran's yard is his forever." |
 | A plot ("kid saves grandma") | What rule is grandma trapped by? | → "In my town, if you forget someone's birthday, they forget you." |
-| A joke or a romance | Probably a Fable gag: a literal reading or a secret power. | "my crush is cold" → "My crush's touch freezes things. I live in Florida." |
+| A joke or a romance | Probably a Fiction gag: a literal reading or a secret power. | "my crush is cold" → "My crush's touch freezes things. I live in Florida." |
 
 ### The four tests (all must pass)
 1. **Everyday action.** Anyone watching does it daily: talk, sleep, walk, lie, laugh, eat, wave, say goodnight, take a
@@ -32,10 +32,10 @@ Whatever the user gives you, push it through these questions until one impossibl
   can be chosen on purpose.
 
 ### Warm or eerie?
-- Funny, warm or bittersweet idea → **warm Fable story** (classic 8 beats), bright look.
-- Eerie or epic idea (a watcher, a deadline at sunset, something under or behind) → **eerie Fable story**
+- Funny, warm or bittersweet idea → **warm Fiction story** (classic 8 beats), bright look.
+- Eerie or epic idea (a watcher, a deadline at sunset, something under or behind) → **eerie Fiction story**
   (crisis-first), cinematic look.
-- A joke or a crush → **Fable gag**.
+- A joke or a crush → **Fiction gag**.
 
 ## Lenses for pitching from nothing
 Use 5 different lenses for 5 pitches so they don't feel alike.
@@ -73,7 +73,7 @@ the heart.
 ## Pitch format (no idea yet)
 
 ```
-**1. [TITLE…]** · Fable story, warm
+**1. [TITLE…]** · Fiction story, warm
 First line: "…"
 Heart: [misfit narrator] + [loved one and ritual].
 Turn: [what the rule really means / how the flaw saves them].

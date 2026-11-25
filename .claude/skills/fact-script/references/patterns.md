@@ -1,7 +1,7 @@
 # Fact patterns: what the viral true-story shorts have in common
 
 **Fact** = a real mechanism, practice or true event, told as a fast mini-story about someone else. It is the opposite of
-a **Fable** script (an invented rule, told by a kid in the first person). Everything here was measured, not guessed:
+a **Fiction** script (an invented rule, told by a kid in the first person). Everything here was measured, not guessed:
 
 - **Study set:** 53 shorts from a large animated explainer-story channel: 20 measured in October 2026 and its newest 33
   (0.16M-35.6M views) measured in November 2026 with word timings, cut detection and loudness. Where the two sets

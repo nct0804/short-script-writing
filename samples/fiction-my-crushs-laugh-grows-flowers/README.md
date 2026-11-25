@@ -1,9 +1,9 @@
-# Sample · Fable gag: My Crush's Laugh Grows Flowers 🌷
+# Sample · Fiction gag: My Crush's Laugh Grows Flowers 🌷
 
 `final.mp4` (46 s, 1080x1920) · `script.md` (the full script with the world bible, shot list, captions, score)
 
 ## How it was made
-1. **Script** with `fable-script`. Seed: *"My crush's laugh makes flowers grow. She has never laughed at anything I
+1. **Script** with `fictional-script`. Seed: *"My crush's laugh makes flowers grow. She has never laughed at anything I
    say."*
    - The skill offered three rule versions and recommended *"Every time my crush laughs, flowers grow wherever she
      looks"*: the strangest frame-1 image, and ready for a callback.

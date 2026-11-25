@@ -4,8 +4,8 @@
 !.gitignore
 !README.md
 !fact/
-!fable/
+!fiction/
 fact/*
-fable/*
+fiction/*
 !fact/.gitkeep
-!fable/.gitkeep
+!fiction/.gitkeep
