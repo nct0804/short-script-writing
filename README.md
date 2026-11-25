@@ -28,7 +28,7 @@ viral-short-script/
 
 ## Install
 
-- **Claude.ai / Claude app:** zip the `viral-short-script` folder and upload it under Settings → Capabilities → Skills, or save it from the proposal card in the project thread.
+- **Claude.ai / Claude app:** upload `viral-short-script.zip` (in this repo) under Settings → Capabilities → Skills, or save it from the proposal card in the project thread.
 - **Claude Code:** copy `viral-short-script/` into `~/.claude/skills/` (or `.claude/skills/` in a project).
 
 Then say something like "write me a short script" or "pitch me ideas for a short".
