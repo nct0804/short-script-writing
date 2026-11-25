@@ -5,7 +5,7 @@ Put the short videos you want to learn from here, one folder per set:
 ```
 reference-videos/
   fact/<set-name>/     true stories, real science, tricks people use (Fact)
-  fiction/<set-name>/    invented worlds with one impossible rule, crush gags (Fiction)
+  fable/<set-name>/    invented worlds with one impossible rule, crush gags (Fable)
 ```
 
 - **Set names are aliases** (`set-a`, `kitchen-science`, `bedtime-eerie`), never the creator's name or handle.

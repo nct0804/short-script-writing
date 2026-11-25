@@ -1,4 +1,4 @@
-# Sample · Fiction gag: My Crush's Laugh Grows Flowers 🌷
+# Sample · Fable gag: My Crush's Laugh Grows Flowers 🌷
 
 `final.mp4` (46 s, 1080x1920) · `script.md` (the full script with the world bible, shot list, captions, score)
 

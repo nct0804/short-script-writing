@@ -1,6 +1,6 @@
-# Fiction patterns: what the viral invented-rule stories have in common
+# Fable patterns: what the viral invented-rule stories have in common
 
-**Fiction** = an invented world with one impossible rule, told by a kid in the first person. It is the opposite of a
+**Fable** = an invented world with one impossible rule, told by a kid in the first person. It is the opposite of a
 **Fact** script (a real mechanism, told about someone else). Everything here was measured, not guessed:
 
 - **Study set:** the 25 most-viewed of the newest 96 reels on a large animated mini-story account (1.8M to 8.9M views),
@@ -8,7 +8,7 @@
 - The source account is deliberately not named, and no line, title or plot from it is reproduced. Every example in this
   kit is original.
 
-If the user has a **style profile** of their own (`style-profiles/fiction-*.md`, made by the `study-references` skill),
+If the user has a **style profile** of their own (`style-profiles/fable-*.md`, made by the `study-references` skill),
 its numbers override the ones below where they differ.
 
 ## The headline
@@ -24,7 +24,7 @@ saves someone small and loved by using the rule in a way nobody thought of.** Al
 
 ## Two formats
 
-| | Fiction story | Fiction gag |
+| | Fable story | Fable gag |
 |---|---|---|
 | Share of the study set | 19 of 25 | 6 of 25 |
 | Length | 95-175 s (median 130), 414-737 words (median 525) | 36-38 s, 184-195 words |
@@ -33,7 +33,7 @@ saves someone small and loved by using the rule in a way nobody thought of.** Al
 | Core | a misfit kid saves a sibling, a grandparent or the town | three escalations of the premise going wrong |
 | Ending | callback to the opening or a ritual: warm, or a dread sting | one line of dialogue that flips the premise |
 
-## Two variants of the Fiction story
+## Two variants of the Fable story
 
 | | Warm (classic 8 beats) | Eerie (crisis-first) |
 |---|---|---|
@@ -42,7 +42,7 @@ saves someone small and loved by using the rule in a way nobody thought of.** Al
 | Tense | usually past | present |
 | Share | most of the set | 4 of the top 15, including the #1 |
 
-## The 8 beats (warm Fiction story, about 2:00)
+## The 8 beats (warm Fable story, about 2:00)
 
 | # | Beat | When | Job |
 |---|---|---|---|
@@ -55,7 +55,7 @@ saves someone small and loved by using the rule in a way nobody thought of.** Al
 | 7 | **Sacrifice through the rule** | 75-90 % | The narrator uses the misfit trait *through* the rule, and it costs them: years, a voice, a memory, a place. |
 | 8 | **Callback** | last 5-10 s | The first line or the ritual returns, changed. Warm stories end on a joke inside the warmth; eerie ones on the threat turning toward the narrator. |
 
-The **Fiction gag** keeps only beats 1, 5 and 8: premise, three quick escalations, a one-line dialogue flip.
+The **Fable gag** keeps only beats 1, 5 and 8: premise, three quick escalations, a one-line dialogue flip.
 
 ### Patterns that hold across the set
 - **Comedy first, heart second.** The first 20-30 seconds being funny is what buys the emotional turn.
@@ -142,6 +142,13 @@ One or two short lines, then cut. No call to action inside the video.
 - **The world name in caps:** THE PAPER TOWN, THE TOWN WITHOUT SHADOWS.
 - **The rule itself,** in title case: "Every Balloon Takes a Memory".
 - One emoji is fine for gags.
+
+## Morals: how the study set teaches without preaching
+- The strongest long stories turn on a **value acted out**: the misfit narrator does something brave, kind or
+  selfless *through* the rule, and it costs them. Several are built directly on a kindness or karma rule.
+- The lesson lives in the **sacrifice** and the **callback**, never in a sentence that explains it. A spoken moral is
+  the same mistake as a call to action: it steps out of the story to talk at the viewer.
+- To write a moral Fable on purpose (a value chosen first), use `morals.md`.
 
 ## Comment fuel
 Top comments argue the rule's logic or solve the mystery before the reveal. Leave **one loophole** viewers will

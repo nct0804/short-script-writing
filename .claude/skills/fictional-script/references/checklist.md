@@ -1,4 +1,4 @@
-# Fiction checklist
+# Fable checklist
 
 Score every draft before showing it. Fix anything failing and re-score. Show the card under the script.
 
@@ -11,8 +11,10 @@ Score every draft before showing it. Fix anything failing and re-score. Show the
 - [ ] The last line echoes the first line or the ritual, changed. Then the script ends.
 - [ ] Word count fits the pace: story 450-600 words (4.3 words/s); gag 180-195 (5.2 words/s).
 - [ ] Original: no plot, rule, character or line taken from another creator.
+- [ ] Moral Fables: the value is shown in the sacrifice (or the flip) and felt in the callback, never said: no
+      "the moral of the story", no lecture, the value's name not in the narration.
 
-## Score: Fiction story (100 points; ship at 85+)
+## Score: Fable story (100 points; ship at 85+)
 | Area | Points | Full marks when |
 |---|---|---|
 | Hook | 20 | Rule in sentence 1, stake by sentence 3, strangest image first, under 5 s |
@@ -24,13 +26,16 @@ Score every draft before showing it. Fix anything failing and re-score. Show the
 | Language | 10 | ~6-word sentences, a one-word sentence every 8-10 lines, at least 3 deadpan jokes, sound words, dialogue under 10 words |
 | Comment fuel | 5 | One clear loophole, or a mystery viewers can solve early |
 
-## Score: Fiction gag (100 points; ship at 85+)
+## Score: Fable gag (100 points; ship at 85+)
 | Area | Points | Full marks when |
 |---|---|---|
 | Hook | 30 | The premise in sentence 1, visible in frame 1, the stake by sentence 3 |
 | Escalation | 30 | Three beats, each bigger, each with a specific number or object; at least one sound word |
 | Flip | 30 | One line of dialogue under 10 words that turns the premise around; ideally echoes the first line |
 | Language | 10 | ~6-word sentences, fast, no feelings narrated |
+
+**Moral Fables** use the story score; the Turn (15) and the Sacrifice (10) carry the moral: full marks only when the
+turn re-reads the rule in story words and the sacrifice acts the value out at a real cost.
 
 ## Card format
 ```

@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Measure a set of reference videos the same way every time, for private style study.
 
-    python3 study.py reference-videos/<fact|fiction>/<set-name> [--transcribe] [--model small.en] [--scene 0.35]
+    python3 study.py reference-videos/<fact|fable>/<set-name> [--transcribe] [--model small.en] [--scene 0.35]
 
 Reads every video in the set folder (.mp4 .mov .webm .mkv .m4v). For words it uses, in this order:
   1. a transcript you put next to the video with the same name: .json (word timings), .srt, .vtt or .txt
@@ -170,7 +170,7 @@ def text_stats(words, dur, timed):
 
 def main():
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
-    ap.add_argument("set_dir", help="reference-videos/<fact|fiction>/<set-name>")
+    ap.add_argument("set_dir", help="reference-videos/<fact|fable>/<set-name>")
     ap.add_argument("--transcribe", action="store_true", help="local speech-to-text (faster-whisper) when no transcript sits next to a video")
     ap.add_argument("--model", default="small.en", help="faster-whisper model (default small.en)")
     ap.add_argument("--scene", type=float, default=0.35, help="scene-change threshold for hard cuts (default 0.35)")

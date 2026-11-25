@@ -1,9 +1,9 @@
-# Fiction templates and output format
+# Fable templates and output format
 
-Three templates: the **warm Fiction story** (classic 8 beats), the **eerie Fiction story** (crisis-first) and the **Fiction
+Three templates: the **warm Fable story** (classic 8 beats), the **eerie Fable story** (crisis-first) and the **Fable
 gag**. Timestamps come from words ÷ pace (4.3 words/s for stories, 5.2 for gags).
 
-## Warm Fiction story (about 2:00, 480-560 words at 4.3 words/s)
+## Warm Fable story (about 2:00, 480-560 words at 4.3 words/s)
 
 ```
 TITLE (caps, first person, ends in "…"): MY ______ ______…
@@ -50,7 +50,7 @@ It cost me ______.
 [The ritual or first line returns, changed.] [One short joke or sting.]
 ```
 
-## Eerie Fiction story (crisis-first, 1:45-2:30, present tense)
+## Eerie Fable story (crisis-first, 1:45-2:30, present tense)
 
 ```
 TITLE: the rule or the place, in caps: THE LIGHTHOUSE THAT COUNTS US / or a teaser ending in "…"
@@ -79,7 +79,7 @@ Tonight, ______. / This morning, ______.   (the narrator is on the wrong side of
 [The threat turns toward the narrator, in one calm line.]
 ```
 
-## Fiction gag (36 s, 180-195 words at 5.2 words/s)
+## Fable gag (36 s, 180-195 words at 5.2 words/s)
 
 ```
 TITLE (caps + one emoji): ______ ______ 😳
@@ -104,7 +104,7 @@ Use these headings, in this order.
 ```markdown
 # [RECOMMENDED TITLE]
 
-**Type:** Fiction · **Format:** Fiction story (warm) / Fiction story (eerie) / Fiction gag · **Target length:** 2:05 · **Words:** 538 (≈4.3 words/s)
+**Type:** Fable · **Format:** Fable story (warm) / Fable story (eerie) / Fable gag · **Target length:** 2:05 · **Words:** 538 (≈4.3 words/s)
 **Logline:** [one sentence: rule + misfit + loved one + turn]
 **Title options:** 1. … (recommended) · 2. … · 3. …
 
@@ -122,6 +122,7 @@ Use these headings, in this order.
 - Rule: … · Price: … · Loophole (comment fuel): …
 - Narrator + misfit trait: … · Loved one + ritual: …
 - Plants → payoffs: [the detail planted early] → [where it pays off]
+- Moral (optional, never spoken): [the value in one line] · shown in: [the beat-7 act] · felt in: [the beat-8 line]
 
 ## Hook shot list (first 7 seconds)
 | Time | Shot | On screen | Caption |
@@ -145,6 +146,9 @@ Look: bright / cinematic / gag · Style: [2-4 lowercase words / one yellow word 
 
 ## Score card
 [The checklist result: must-haves ✓/✗ and the score out of 100.]
+
+## Teacher note (moral Fables only, not spoken)
+Value: [one sentence]. Ask: "[one question for a child after watching]"
 ```
 
 Count spoken words per beat (narration only, not headings or brackets) and give the total.

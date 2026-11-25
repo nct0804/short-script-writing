@@ -1,4 +1,4 @@
-# Fiction idea engine
+# Fable idea engine
 
 ## Turning a seed into a rule
 
@@ -12,7 +12,7 @@ Whatever the user gives you, push it through these questions until one impossibl
 | A "what if" | Make it a law for everyone, then find who it hurts. | "what if you could pause time" → "The whole town freezes for one minute at noon, except whoever is crying." |
 | A character ("a grumpy neighbour") | What rule would make them the villain, or secretly the hero? | → "Any kite that lands in Mr. Halloran's yard is his forever." |
 | A plot ("kid saves grandma") | What rule is grandma trapped by? | → "In my town, if you forget someone's birthday, they forget you." |
-| A joke or a romance | Probably a Fiction gag: a literal reading or a secret power. | "my crush is cold" → "My crush's touch freezes things. I live in Florida." |
+| A joke or a romance | Probably a Fable gag: a literal reading or a secret power. | "my crush is cold" → "My crush's touch freezes things. I live in Florida." |
 
 ### The four tests (all must pass)
 1. **Everyday action.** Anyone watching does it daily: talk, sleep, walk, lie, laugh, eat, wave, say goodnight, take a
@@ -32,10 +32,12 @@ Whatever the user gives you, push it through these questions until one impossibl
   can be chosen on purpose.
 
 ### Warm or eerie?
-- Funny, warm or bittersweet idea → **warm Fiction story** (classic 8 beats), bright look.
-- Eerie or epic idea (a watcher, a deadline at sunset, something under or behind) → **eerie Fiction story**
+- Funny, warm or bittersweet idea → **warm Fable story** (classic 8 beats), bright look.
+- Eerie or epic idea (a watcher, a deadline at sunset, something under or behind) → **eerie Fable story**
   (crisis-first), cinematic look.
-- A joke or a crush → **Fiction gag**.
+- A joke or a crush → **Fable gag**.
+- A value to teach (for kids, a classroom, a family channel) → a **moral Fable**: usually a warm story, sometimes a gag
+  whose flip carries the lesson (`morals.md`).
 
 ## Lenses for pitching from nothing
 Use 5 different lenses for 5 pitches so they don't feel alike.
@@ -49,6 +51,8 @@ Use 5 different lenses for 5 pitches so they don't feel alike.
 7. **Family rule:** names, goodnights, photos, birthdays, hugs, chores.
 8. **Eerie rule:** a watcher, a collector, a thing under / behind / inside, the last of something.
 9. **Gag lens:** a crush with a power, a literal reading, a bet, a rule between best friends, a deal with a dad.
+10. **Moral lens:** start from a value (honesty, kindness, courage, patience, sharing, gratitude, forgiveness), find the
+    everyday action that tests it, and make the rule show its opposite (`morals.md` has the method and a table).
 
 ## Original idea seeds
 Written for this kit. Use them as pitches or as fuel; check each against the four tests and develop the misfit and
@@ -69,11 +73,13 @@ the heart.
 | 11 (gag) | WHEN PIGS FLY 🐷 | "My crush said she'd date me when pigs fly. So I bought a pig." | Balloons, catapult, hot air balloon. Flip: the pig gets the date. (In `examples.md`.) |
 | 12 (gag) | DAD'S ONE RULE ☝️ | "Her dad has ONE rule: never beat him at chess." | He throws three games, worse each time; flip: the dad has been throwing them too. |
 | 13 (gag) | MY CRUSH'S LAUGH GROWS FLOWERS 🌷 | "Every time my crush laughs, flowers grow wherever she looks." | Thirty days of failed jokes; a disaster finally does it. (The animated sample in `samples/`.) |
+| 14 (moral: kindness) | MY BACKPACK IS FULL OF STONES… | "Every unkind word you say drops into your own backpack as a stone." | The class bully's little brother; the narrator, who never says anything mean, carries his stones for him up the hill. |
+| 15 (moral: courage) | THE GREY KID… | "In my town, if you stay quiet when someone needs you, you turn a little grey." | The quietest kid, already silver; the day the new girl is picked on, she speaks, and the whole class gets its colour back. |
 
 ## Pitch format (no idea yet)
 
 ```
-**1. [TITLE…]** · Fiction story, warm
+**1. [TITLE…]** · Fable story, warm
 First line: "…"
 Heart: [misfit narrator] + [loved one and ritual].
 Turn: [what the rule really means / how the flaw saves them].

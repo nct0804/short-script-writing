@@ -15,16 +15,18 @@ line showable · original
 **Score:** Hook 25 · Escalation 20 · Mechanism 20 · Payoff 15 · Language 10 · Truth 10 → ship at 85
 **Captions:** one bold word at a time
 
-## Fiction on one page
+## Fable on one page
 **Sentence 1:** the rule. "In my town, if you [everyday action], [magic result]."
-**Fiction story (warm, ~2:00, 450-600 words, 4.3 words/s):**
+**Fable story (warm, ~2:00, 450-600 words, 4.3 words/s):**
 1. The rule + price + stake → 2. Proof montage (3-6 cases, names + numbers, one plant) → 3. "Me?" (the misfit) →
 4. Loved one + ritual → 5. Pressure (countdown, adults fail) → 6. The turn ("That's when I understood.") →
 7. Sacrifice through the rule → 8. Callback (the ritual, changed)
-**Fiction story (eerie):** rule → tonight it broke (by sentence 6) → world facts that raise the danger → the one who
+**Fable story (eerie):** rule → tonight it broke (by sentence 6) → world facts that raise the danger → the one who
 depends on the narrator → the turn → a costly choice → a dread sting. Present tense, cinematic.
-**Fiction gag (36 s, 180-195 words, 5.2 words/s):** premise → three escalations → one-line dialogue flip
+**Fable gag (36 s, 180-195 words, 5.2 words/s):** premise → three escalations → one-line dialogue flip
 **Rule tests:** everyday action · visible in frame 1 · a price · a loophole
+**Moral Fable:** value → the everyday action that tests it → a rule that shows its opposite · the misfit has the value
+too much · the turn re-reads the rule · the sacrifice acts it out · never say the moral
 **Language:** sentences ~6 words · a one-word sentence every 8-10 lines · 3+ deadpan jokes · sound words · dialogue
 under 10 words · no feelings narrated before the turn
 **Must-haves (8):** rule first · visible rule · price early · misfit solves it · loved one + ritual · callback ending ·
@@ -42,8 +44,8 @@ length fits the pace · original
 ## Prompts that work
 | You want | Say |
 |---|---|
-| a script | "Write me a short script." (Claude asks Fact or Fiction first.) |
-| ideas | "Pitch me 6 Fact ideas about the ocean." · "Pitch me 5 Fiction ideas, one of them eerie." |
+| a script | "Write me a short script." (Claude asks Fact or Fable first.) |
+| ideas | "Pitch me 6 Fact ideas about the ocean." · "Pitch me 5 Fables, one of them eerie." · "A moral Fable about kindness." |
 | a fix | "Doctor this draft." · "The hook is slow." · "Make the turn more surprising." |
 | a version | "A 36-second cut." · "A darker ending." · "Part 2." · "Three more hooks." |
-| your style | "Study my reference videos." · "Use my fiction-set-a profile." |
+| your style | "Study my reference videos." · "Use my fable-set-a profile." |

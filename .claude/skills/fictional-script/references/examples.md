@@ -1,14 +1,14 @@
-# Fiction worked examples (original)
+# Fable worked examples (original)
 
-Three scripts written for this kit with the templates: a warm Fiction story, and two Fiction gags (the second one was
-animated end to end: `samples/fiction-my-crushs-laugh-grows-flowers/`). They show the bar, the output format and the
-notes. Don't reuse them as they are for a new video; write new ones from the user's seed.
+Four scripts written for this kit with the templates: a warm Fable story, two Fable gags (the second one was
+animated end to end: `samples/fable-my-crushs-laugh-grows-flowers/`) and a moral Fable (last; method in `morals.md`).
+They show the bar, the output format and the notes. Don't reuse them as they are for a new video; write new ones from the user's seed.
 
 ---
 
 # MY LITTLE BROTHER WON'T LET GO OF HIS BALLOON...
 
-**Type:** Fiction · **Format:** Fiction story (warm) · **Target length:** about 1:45 · **Words:** 452 (≈4.3 words/s): 48 / 101 / 33 / 59 / 69 / 48 / 64 / 30 per beat
+**Type:** Fable · **Format:** Fable story (warm) · **Target length:** about 1:45 · **Words:** 452 (≈4.3 words/s): 48 / 101 / 33 / 59 / 69 / 48 / 64 / 30 per beat
 **Logline:** In a town where letting go of a balloon erases a memory, the clumsiest kid in town saves his little brother from floating away by letting go for him.
 **Title options:** 1. MY LITTLE BROTHER WON'T LET GO OF HIS BALLOON... (recommended) · 2. EVERY BALLOON TAKES A MEMORY · 3. THE CLOUD THAT KEEPS EVERYTHING
 
@@ -74,7 +74,7 @@ Weakest spot: the turn could be planted harder; show one glowing balloon in the 
 
 # WHEN PIGS FLY 🐷
 
-**Type:** Fiction · **Format:** Fiction gag · **Words:** 184 (≈5.2 words/s)
+**Type:** Fable · **Format:** Fable gag · **Words:** 184 (≈5.2 words/s)
 **Logline:** A boy takes his crush's "when pigs fly" literally.
 
 ## Script
@@ -109,7 +109,7 @@ Total: 91/100
 
 # MY CRUSH'S LAUGH GROWS FLOWERS 🌷
 
-**Type:** Fiction · **Format:** Fiction gag · **Words:** 182 (≈5.2 words/s)
+**Type:** Fable · **Format:** Fable gag · **Words:** 182 (≈5.2 words/s)
 **Logline:** A boy whose crush's laugh makes flowers grow spends thirty days failing to make her laugh, until a disaster
 finally does, and now she wants it every day.
 
@@ -151,4 +151,89 @@ Must-haves: 8/8 ✓
 Hook 27/30 · Escalation 27/30 · Flip 26/30 · Language 9/10
 Total: 89/100
 Weakest spot: the flip could be sharper if her line also turned his "never grown a flower" (e.g. she hands him one).
+```
+
+---
+
+# MY SHADOW LEFT WITHOUT ME…
+
+**Type:** Fable · **Format:** Fable story (warm), moral Fable · **Target length:** about 1:47 · **Words:** 458 (≈4.3 words/s): 37 / 81 / 43 / 51 / 74 / 48 / 88 / 36 per beat
+**Logline:** In a town where every lie makes your shadow walk away, the one kid who can't lie brings his grandmother's
+shadow home by telling her the hardest true thing he's ever said.
+**Title options:** 1. MY SHADOW LEFT WITHOUT ME… (recommended) · 2. MY GRANDMA'S SHADOW IS AT THE END OF OUR STREET… · 3. THE HILL WHERE SHADOWS WAIT
+
+## Script
+
+### 1. The rule · 0:00–0:08 · 37 words
+In this town, every time you tell a lie, your shadow takes one step away from you. Tell enough lies, and one day it just keeps walking. My grandma's shadow is at the end of our street.
+
+### 2. Proof montage · 0:08–0:27 · 81 words
+Mayor Burke hasn't had a shadow since the election. It lives in the town hall basement. He's very pale about it. The car salesman on Elm Street wears a flashlight on his back, so nobody notices. At dinner, everyone checks the wall before they say, "Delicious." Mrs. Ito's shadow left in 1998. It still sends postcards. And every sunset, all the lost shadows sit on the hill behind the school, waiting. Nobody goes up there. Nobody wants to know what for.
+
+### 3. Me? · 0:27–0:37 · 43 words
+Me? I can't lie. Not even a little. "Do you like my haircut?" "No." "Was the play good?" "It was long." My shadow hasn't moved an inch in eleven years. The kids call me Glue. I don't get invited to many birthday parties.
+
+### 4. Loved one + ritual · 0:37–0:49 · 51 words
+Grandma is eighty-one. Every night we sit on the porch, and she asks, "How was your day, really?" And I tell her. Everything. Then I ask her. She smiles and says, "I'm fine, sweetheart." And her shadow takes one step. Every night. Since Grandpa died. Four hundred and twelve nights.
+
+### 5. Pressure · 0:49–1:06 · 74 words
+This week, her shadow reached the corner. Monday, the bus stop. Tuesday, the bakery. Wednesday, it was halfway up the hill. Dad hugged her and said, "Mom, you look great." His shadow left too. Mom said, "Everything's going to be fine." Hers went with it. The mailman said Grandma looked twenty years younger. He's a terrible mailman. By Thursday, our porch was dark at sunset. And Grandma said the sun didn't feel warm anymore.
+
+### 6. The turn · 1:06–1:17 · 48 words
+I ran up the hill. Hundreds of shadows were sitting in the grass. Grandma's was at the front. It wasn't running away. It was holding a hand that wasn't there. That's when I understood. A shadow doesn't leave when you lie. It goes to wait for the truth.
+
+### 7. Sacrifice through the rule · 1:17–1:38 · 88 words
+So I went home and did the only thing I'm good at. "You're not fine, Gran. You're sad. And I'm sad too. I miss him every day." It was the hardest true thing I've ever said. Her face crumpled. She cried for an hour. I cried longer. It cost me the one thing I'd never done. I made Grandma cry. And at sunset, something came running down the hill. Her shadow. Then Dad's. Then Mom's. And one more, a little taller, standing behind hers. Just for a second.
+
+### 8. Callback · 1:38–1:46 · 36 words
+Now every night on the porch, she asks, "How was your day, really?" Then she tells me hers. Sad, a bit. And good. Her shadow doesn't move an inch. The kids call her Glue now too.
+
+## World bible
+- Rule: every lie, your shadow takes one step away · Price: tell enough, and it keeps walking (the sun stops feeling
+  warm) · Loophole (comment fuel): what happens if you lie to yourself?
+- Narrator + misfit trait: can't lie at all ("Glue") · Loved one + ritual: Grandma, 81: "How was your day, really?" /
+  "I'm fine, sweetheart."
+- Plants → payoffs: the lost shadows waiting on the hill, "nobody wants to know what for" → they wait for the truth;
+  Grandpa's absence → one more shadow, a little taller, for a second.
+- **Moral** (never spoken): saying how you really feel is kinder than "I'm fine". Shown in beat 7 (the hardest true
+  thing, and its cost), felt in beat 8 (the ritual answered honestly). The turn says it in story words: "It goes to wait
+  for the truth."
+
+## Hook shot list (first 7 seconds)
+| Time | Shot | On screen | Caption |
+|---|---|---|---|
+| 0.0–0.8 s | Close: a kid's fingers crossed behind his back; his shadow peels off the pavement and takes one step away | the rule happening | "tell a lie" |
+| 0.8–2.0 s | Pull back: a sunny street, shadows scattered at odd distances from their people | world scale | "your SHADOW" |
+| 2.0–3.5 s | Two proofs: a shadow stepping away from a man mid-handshake; a shadow walking off a dinner-party wall | one per noun | "one step" |
+| 3.5–4.5 s | Narrator close-up, glancing at his own shadow, glued to his heels | reaction | |
+| 4.5–7.0 s | Grandma on a porch; her shadow, tiny, at the far end of the street | the stake | "end of our STREET" |
+
+## Shot notes (rest of the video)
+- Beat 2: an empty spot on the town-hall steps where the mayor's shadow should be; a flashlight strapped to a
+  salesman's back; dinner guests glancing at the wall; a postcard signed by a shadow; the hill at sunset, crowded with
+  sitting shadows (the plant).
+- Beat 3: a classmate's haircut; a school-play poster; a shadow welded to sneakers.
+- Beat 4: the porch ritual in warm light; her shadow sliding one board's width away.
+- Beat 5: day cards MON / TUE / WED; the shadow at the bus stop, the bakery, the hill; Dad's and Mom's shadows trailing
+  off; the porch dark at sunset.
+- Beat 6: running up the hill; the shadows in the grass; Grandma's holding an empty hand.
+- Beat 7: the porch, both crying; shadows running down the hill at sunset; one extra, taller, for two frames.
+- Last shot: the same porch as beat 4, both shadows perfectly still beside them.
+
+## Captions
+Bright look: 2-4 lowercase words, keywords in colour: SHADOW, LIE, GLUE, REALLY, TRUTH.
+
+## Comment bait
+What happens to your shadow if you lie to yourself?
+
+## Teacher note (not spoken)
+Value: telling someone how you really feel can be kinder than saying "I'm fine". Ask: "Why did Grandma's shadow come
+back when she cried?"
+
+## Score card
+```
+Must-haves: 8/8 ✓ · Moral: shown, never said ✓
+Hook 19/20 · Montage 14/15 · Heart 15/15 · Turn 14/15 · Sacrifice 9/10 · Ending 10/10 · Language 9/10 · Comment fuel 5/5
+Total: 95/100
+Weakest spot: the sacrifice's cost is emotional only; a visible cost (his own shadow stepping away once) would land harder.
 ```

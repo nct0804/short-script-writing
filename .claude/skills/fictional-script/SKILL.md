@@ -1,11 +1,11 @@
 ---
 name: fictional-script
-description: Write a complete Fiction script for a faceless animated short (Reels, TikTok, YouTube Shorts) - an invented world with one impossible rule, told by a kid in the first person - as a 2-minute Fiction story (warm or eerie) or a 36-second Fiction gag, from the user's idea however small, or pitch ideas when they have none. Use for "what if" stories, magic rules, invented worlds, crush gags, or when the user says /fictional-script or picks Fiction in /short-script. For true stories and real science use fact-script instead.
+description: Write a complete Fable script for a faceless animated short (Reels, TikTok, YouTube Shorts) - an invented world with one impossible rule, told by a kid in the first person - as a 2-minute Fable story (warm or eerie) or a 36-second Fable gag, from the user's idea however small, or pitch ideas when they have none. Also writes and teaches moral stories (a Fable built around one value - honesty, kindness, courage, patience, sharing - shown through the story, never preached). Use for "what if" stories, magic rules, invented worlds, crush gags, moral stories, stories that teach kids a value, or when the user says /fictional-script or picks Fable in /short-script. For true stories and real science use fact-script instead.
 ---
 
-# Fiction script writer
+# Fable script writer
 
-**Fiction** = an invented world with one impossible rule, told by a kid who doesn't fit it. (Its opposite in this kit is
+**Fable** = an invented world with one impossible rule, told by a kid who doesn't fit it. (Its opposite in this kit is
 **Fact**: a real mechanism or true event, told about someone else, in the `fact-script` skill.)
 
 You turn a seed (a word, a "what if", a feeling, a half-plot) into a finished, ready-to-voice script that follows the
@@ -17,6 +17,7 @@ writing; don't write from memory.
 | `references/patterns.md` | Always, before the first draft: the beats, hook formulas, pacing, picture, endings, titles |
 | `references/templates.md` | When drafting: the warm, eerie and gag templates and the exact output format |
 | `references/idea-engine.md` | When the user has no idea, or a vague one: seed → rule, the four tests, pitch lenses, idea seeds |
+| `references/morals.md` | When the story should teach a value (a moral Fable): value → action → rule, where the moral lives in the beats |
 | `references/checklist.md` | Before you show any draft: must-haves + a 100-point score; fix anything below the bar |
 | `references/examples.md` | To see the bar: a warm story and two gags, with notes |
 
@@ -24,15 +25,15 @@ writing; don't write from memory.
 If the user came through `/short-script`, the type is already chosen: skip to Step 1. Otherwise, before anything else,
 ask in one short message:
 
-> "Two kinds of script here. **Fiction**: an invented world with one impossible rule, told by a kid ('In my town, if
+> "Two kinds of script here. **Fable**: an invented world with one impossible rule, told by a kid ('In my town, if
 > you hum, flowers grow where you stand'). **Fact**: a true story or a real piece of science, told as a mini-story
 > ('He spun every egg in the diner before he cracked a single one'). Which one?
-> And for Fiction: a **2-minute story** or a **36-second gag**?"
+> And for a Fable: a **2-minute story** or a **36-second gag**?"
 
 If they pick Fact, hand over to the `fact-script` skill. If they're unsure, ask for the idea and recommend one: an
-invented rule is Fiction; something that really happens is a Fact.
+invented rule is a Fable; something that really happens is a Fact.
 
-**Style profiles:** if `style-profiles/` has `fiction-*.md` files (made by the `study-references` skill from the user's
+**Style profiles:** if `style-profiles/` has `fable-*.md` files (made by the `study-references` skill from the user's
 own reference videos), name them and ask which one to follow, or the kit defaults. A chosen profile's numbers
 (pace, length, sentence length, cut speed, captions) override `references/patterns.md` where they differ.
 
@@ -52,17 +53,22 @@ If the first message already has an idea, skip this.
    unless they pick another. If they said "just write it", write it with your pick.
 3. **Pick the variant** (stories): **warm** (classic 8 beats: funny, warm, bittersweet) or **eerie** (crisis-first:
    eerie, epic, present tense). Gags have one shape.
-4. **Pick the heart** (stories): a kid narrator (7-12) who doesn't fit the rule, plus a loved one with a ritual (a
+4. **A moral?** If the user wants the story to teach a value (or it's for kids, a classroom or a family channel), ask
+   which one in a word (honesty, kindness, courage, patience, sharing, gratitude…) and build it with
+   `references/morals.md`: the rule shows the value's opposite, the misfit has the value too much, the turn re-reads
+   the rule, the sacrifice acts the value out. The moral is never said.
+5. **Pick the heart** (stories): a kid narrator (7-12) who doesn't fit the rule, plus a loved one with a ritual (a
    little sibling, a grandparent, a parent). The misfit trait must become the solution.
-5. **Draft the full script** with the matching template in `references/templates.md`, in its output format.
-6. **Score it** with `references/checklist.md`. Revise until every must-have passes and the score is 85 or more. Show
+6. **Draft the full script** with the matching template in `references/templates.md`, in its output format.
+7. **Score it** with `references/checklist.md`. Revise until every must-have passes and the score is 85 or more. Show
    the score card under the script.
 
 Keep the user's idea recognisable. Improve it; don't replace it. If their seed is a romance or a joke, the gag may fit
 better: say so and offer both.
 
 ## Step 2b: No idea → pitch
-1. Generate **5 ideas** with `references/idea-engine.md`: at least 3 stories (one warm, one bittersweet, one eerie) and
+1. Generate **5 ideas** with `references/idea-engine.md`: at least 3 stories (one warm, one bittersweet, one eerie; or, when
+   the user asked for moral stories, three values) and
    1-2 gags, each from a different lens.
 2. For each: a **post title**, the **first line**, the **heart** in one sentence (narrator flaw + loved one), the **turn**
    in one sentence.
@@ -73,11 +79,11 @@ Use the output format in `references/templates.md`:
 1. Title options (3) and the recommended one
 2. Logline
 3. The script beat by beat, with timestamps and word counts
-4. The world bible (rule, price, loophole, misfit, ritual, plants → payoffs)
+4. The world bible (rule, price, loophole, misfit, ritual, plants → payoffs; the moral, if any)
 5. The hook shot list (first 7 s) and shot notes for the rest: text props and sound words
 6. Captions (look, style, keywords)
 7. Comment bait: the loophole
-8. The score card
+8. The score card, and for a moral Fable a one-line teacher note (not spoken)
 
 Then offer, in one line: a 36-second cut (or a 2-minute version of a gag), a part 2, a darker version, or a different
 ending.
@@ -94,4 +100,5 @@ ending.
 - **The last line echoes the first line or the ritual**, changed. Then cut.
 - **Original work only.** Use the patterns, never another creator's plots, characters, titles or lines, and never name
   the creators whose videos were studied.
+- **A moral is shown, never said:** no "the moral of the story", no lecture, no naming the value in the narration.
 - Kid-safe for an all-ages animated channel unless the user asks otherwise.

@@ -10,14 +10,14 @@ references, so the scripts follow the style they want. The output is a **style p
 own words, never the source's lines.
 
 ```
-reference-videos/<fact|fiction>/<set-name>/*.mp4   the user's clips (private, never committed)
+reference-videos/<fact|fable>/<set-name>/*.mp4   the user's clips (private, never committed)
             └── _study/                          the measurements (private: transcripts and frames)
-style-profiles/<fact|fiction>-<set-name>.md         the result (shareable: patterns only)
+style-profiles/<fact|fable>-<set-name>.md         the result (shareable: patterns only)
 ```
 
 ## Step 1: Ask before measuring (always)
 In one short message:
-1. **Which type are these clips: Fact or Fiction?** Fact = true stories or real science told as mini-stories; Fiction =
+1. **Which type are these clips: Fact or Fable?** Fact = true stories or real science told as mini-stories; Fable =
    invented worlds with one impossible rule, told by a kid. (Mixed folder? Ask to split it into two sets.)
 2. **A set name:** a neutral alias like `set-a` or `kitchen-science`. **Never the creator's name or handle**, because the
    profile may be shared or sold.
@@ -39,7 +39,7 @@ model the first time). It prints one line per video and writes `_study/summary.m
 ## Step 3: Read like an editor
 Read `_study/summary.md`, look at every overview sheet and first frame, and read the sentence files. For each video,
 note in your working notes (not in the profile):
-- **Format** (Fact: story / event / explainer; Fiction: story warm / story eerie / gag) and length
+- **Format** (Fact: story / event / explainer; Fable: story warm / story eerie / gag) and length
 - **Hook type**: the shape of sentence 1 (compare with the hook tables in `fact-script` / `fictional-script`
   `references/patterns.md`)
 - **Beat map**: where the setup, escalation, mystery or turn, reveal or sacrifice, and ending fall (seconds)

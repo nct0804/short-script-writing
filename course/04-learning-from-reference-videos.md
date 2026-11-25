@@ -1,7 +1,7 @@
 # Lesson 4 · Learning from reference videos
 
 The kit's defaults come from measuring big viral channels. Your niche may move differently: kitchen science shorts may
-run 45 s, bedtime Fiction stories may whisper at 3.5 words per second. The `study-references` skill measures the videos **you**
+run 45 s, bedtime Fables may whisper at 3.5 words per second. The `study-references` skill measures the videos **you**
 admire and turns them into a **style profile** the writing skills follow.
 
 ## The idea: measure, don't copy
@@ -10,8 +10,8 @@ how fast, how short the sentences, what sentence 1 does, where the turn lands, h
 Those are numbers and shapes, and they're yours to use.
 
 ## 1. Collect a set
-- Pick **10-30 shorts of one type** (Fact or Fiction) that you'd love to have made. The most-viewed teach the most.
-- Save them in `reference-videos/<fact|fiction>/<set-name>/`. Use an alias for the set (`set-a`, `kitchen-science`),
+- Pick **10-30 shorts of one type** (Fact or Fable) that you'd love to have made. The most-viewed teach the most.
+- Save them in `reference-videos/<fact|fable>/<set-name>/`. Use an alias for the set (`set-a`, `kitchen-science`),
   never the creator's name.
 - If you can, add a transcript with the same file name (`.srt`, `.vtt`, `.txt`, or a `.json` with word timings): the
   text numbers become exact. Without one, the study transcribes locally.
@@ -21,7 +21,7 @@ Those are numbers and shapes, and they're yours to use.
 ## 2. Run the study
 Say: **"Study my reference videos."** Claude asks the type and the set name, then runs:
 ```bash
-python3 .claude/skills/study-references/scripts/study.py reference-videos/fiction/set-a --transcribe
+python3 .claude/skills/study-references/scripts/study.py reference-videos/fable/set-a --transcribe
 ```
 (Requirements: ffmpeg; `pip install pillow` for the overview sheets; `pip install faster-whisper` for `--transcribe`.)
 
@@ -40,9 +40,9 @@ A profile never quotes the videos (no line over three words, no titles, no plots
 share.
 
 ## 4. Write with it
-Next time you start a script, the writing skill lists your profiles: "Follow *fiction-set-a* or the kit defaults?" Pick
+Next time you start a script, the writing skill lists your profiles: "Follow *fable-set-a* or the kit defaults?" Pick
 the profile, and its pace, length, sentence length and picture notes override the defaults.
 
 ## Exercise
-Make two sets of the same type from two channels you like, study both, and ask Claude: "Compare fiction-set-a and
-fiction-set-b. What should I take from each?"
+Make two sets of the same type from two channels you like, study both, and ask Claude: "Compare fable-set-a and
+fable-set-b. What should I take from each?"
